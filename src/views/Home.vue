@@ -18,7 +18,7 @@ export default {
   components: {
     Counter,
     Result,
-    SecondResult
+    SecondResult,
   }
 };
 </script>
